@@ -3,7 +3,7 @@
 A wireframe is the basic structure and layout of the system, without the detailed design elements like colors, fonts, or images. Instead, it focuses on the placement of elements, navigation flow, and overall user interface structure.
 A wireframe serves as the blueprint or skeletal framework of a website or application. Examples of wireframing tools include figma, miro, and draw.io.
 
-## Types of wireframes
+## Types of Wireframes
 - Low-fidelity wireframes – Are simple sketches or basic digital layouts that focus on the overall structure and functionality over detailed design.
 - High-fidelity wireframes – Entails more detailed and refined versions. Hi-Fi wireframes are often closer to the final design, including more specific layout and design elements.
 
